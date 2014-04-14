@@ -6,7 +6,7 @@ package com.tk.example.mylibrary;
 public class MyLibClass {
 
     public static String testMethod(){
-        return "You have successfully used this library!";
+        return "TEST METHOD: If I have seen further than others it is because I was standing on the shoulders of giants.";
     }
 
 }
